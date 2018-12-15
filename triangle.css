@@ -3,7 +3,11 @@
     text-align: center;
     float: right;
     margin-right: 300px;
+    padding-top: 30px;
+    margin-top: 1px;
 }
-main{
-    padding-top: 80px
+
+.p{
+    margin-top: 10px;
+    padding-top: 30px;
 }
