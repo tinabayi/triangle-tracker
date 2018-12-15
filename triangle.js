@@ -5,7 +5,7 @@
         var side3 = parseInt(document.getElementById("myNumber3").value);
 
         var sides = []
-        var sides= sides.concat([side1, side2, side3]);
+        var sides=parseInt( sides.concat([side1, side2, side3]));
 
         if((side1 + side2 <= side3 && side2+ side1 <= side3) || 
             (side2 + side3 <= side1 && side3 + side2 <= side1) || 
