@@ -1,0 +1,9 @@
+.triangle{
+    border:1px solid black;
+    text-align: center;
+    float: right;
+    margin-right: 300px;
+}
+main{
+    padding-top: 80px
+}
