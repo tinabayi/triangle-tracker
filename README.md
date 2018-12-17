@@ -35,6 +35,8 @@ Triangle Tracker
 ~~~
 ### Contact information
 ~~~
+My number +250784463499
+Ppoject link:https://github.com/tinabayi/triangle-tracker
 ~~~
 ### License and Copyright information
 ~~~
