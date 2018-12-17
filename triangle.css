@@ -30,14 +30,13 @@ nav a{
 }
 nav a:hover{
     background-color: blue;
-    color: brown
-
+    color: black;
 }
-    
-
 footer{
     text-align: center;
     background-color: rgb(244,182,66);
     border-radius: 10px;
-    border-bottom: 100%;
+   
+    
+    
 }
