@@ -37,3 +37,6 @@ Triangle Tracker
 ~~~
 ~~~
 ### License and Copyright information
+~~~
+This project is licensed under the MIT License - see the LICENSE.md file for details
+~~
