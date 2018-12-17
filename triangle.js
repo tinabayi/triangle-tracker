@@ -1,5 +1,6 @@
 
-    function myFunction() {
+   // Create a function with alert in case condition is true
+   function myFunction() {
         var side1 = parseInt(document.getElementById("myNumber1").value);
         var side2 =parseInt(document.getElementById("myNumber2").value);
         var side3 = parseInt(document.getElementById("myNumber3").value);
