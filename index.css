@@ -1,0 +1,52 @@
+/*Make an html style with background image*/
+html{
+    background-image:url(https://cdn1.vectorstock.com/i/1000x1000/55/75/abstract-triangle-background-vector-955575.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    margin-left: 70px;
+    
+}
+/*style navigation*/
+nav a{
+    max-width: 960px;
+    margin:0 auto;
+    padding:10px 0;
+    text-decoration: blue;
+    margin-right: 200px;
+    display: inline-block;
+    
+}
+nav a:hover{
+    background-color: blue;
+    color: black;
+}
+.p{
+    margin-top: 10px;
+    padding-top: 30px;
+}
+
+   /*styling where users put data*/ 
+
+.triangle{
+    border:1px solid black;
+    text-align: center;
+    
+    margin-right: 300px;
+    padding-top: 30px;
+    margin-top: 1px;
+    color:black;
+}
+/*Styling footer*/
+footer{
+    text-align: center;
+    background-color: rgb(244,143,66);
+    border-radius: 60px;
+    height: 200px;
+   
+    
+    
+}
+#par,#para{
+    padding:30px;
+    font-family: sans-serif;
+}
