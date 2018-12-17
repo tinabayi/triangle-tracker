@@ -12,3 +12,8 @@
     margin-top: 10px;
     padding-top: 30px;
 }
+nav a{
+    padding:5px;
+    text-decoration: blue;
+    margin-right: 200px;
+}
